@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WalkedTheDog", "WalkedTheDog.csproj", "{3E84A7F1-053B-42F1-A366-F4E46140BE49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WalkedTheDogGUI", "..\WalkedTheDogGUI\WalkedTheDogGUI.csproj", "{FB031EB7-D5AB-4515-9ACE-183129693304}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E84A7F1-053B-42F1-A366-F4E46140BE49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E84A7F1-053B-42F1-A366-F4E46140BE49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E84A7F1-053B-42F1-A366-F4E46140BE49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E84A7F1-053B-42F1-A366-F4E46140BE49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB031EB7-D5AB-4515-9ACE-183129693304}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB031EB7-D5AB-4515-9ACE-183129693304}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB031EB7-D5AB-4515-9ACE-183129693304}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB031EB7-D5AB-4515-9ACE-183129693304}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26129FA7-4F8A-4761-95A6-D34DD2950BF5}
+	EndGlobalSection
+EndGlobal
